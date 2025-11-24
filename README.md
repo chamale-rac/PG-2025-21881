@@ -1,4 +1,4 @@
-# Control multiparamétrico en generación automática de música: Sistema de Generación Automática de Música con Control Emocional y Tonal (EmoTune)
+# Control multiparamétrico en generación automática de música: Extensión del sistema EMOPIA mediante información de tonalidad y métodos de inferencia especializados (EmoTune)
 
 ## Descripción
 
